@@ -41,13 +41,14 @@
 ## 
 <h3 align="center"><img src="https://emoji.discord.st/emojis/0aa7450f-9598-448e-b8f5-26f88db1c04a.gif" width="25" height="25"> Stats</h3>
 <div align="center"> 
-   <a href="https://github.com/anuraghazra/github-readme-stats">
+   <a href="https://github.com/MPaTXD">
     <img src="https://github-readme-stats.vercel.app/api?username=MPaTXD&count_private=true&show_icons=true&theme=tokyonight" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPaTXD&theme=tokyonight" />
+  <a href="https://github.com/MPaTXD">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPaTXD&count_private=true&show_icons=true&theme=tokyonight" />
   </a>
 </div>
+
 
 
 ##
@@ -80,6 +81,6 @@
    <h3><img src="https://emoji.discord.st/emojis/aea6b19d-1ebb-42b9-98d6-4136ff2ede45.gif" width="25" height="25"/> Repositório</h3>
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&repo=MPaTXD&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=151515)](https://github.com/MPaTXD/MPaTXD)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&repo=Campo-Minado-C&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=151515)](https://github.com/MPaTXD/Campo-Minado-C)
 
 
