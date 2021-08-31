@@ -60,7 +60,7 @@
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="142" height="30"/> </a> 
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" width="180" height="30"/> </a> 
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" width="180" height="30"/> </a>
-   <img align="right" alt="" width="220" height="180" src="https://c.tenor.com/lnHy5A_HnVMAAAAC/pc-master-race-gaming.gif">
+  <img align="right" alt="" width="180" height="140" src="https://c.tenor.com/lnHy5A_HnVMAAAAC/pc-master-race-gaming.gif">
    <div>
       <a href="" target="_blank"> <img src="https://img.shields.io/badge/XBOX-SERIES_S-107C10?style=for-the-badge&logo=xbox&logoColor=white" width="160" height="30"/> </a> 
    </div>
