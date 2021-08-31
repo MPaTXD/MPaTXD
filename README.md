@@ -13,7 +13,7 @@
 - 🥇 Classificado para a etapa Nacional do campeonato de Robótica FLL (First Lego League) em 2013
 <div align="left">
   <a href="https://www.linkedin.com/in/matheuspatricio/" target="_blank"> <img src="https://img.shields.io/badge/Linkedin-Perfil-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="25"/> </a>
-  <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=MPaTXD&repo=MPaTXD&countColorcountColor&countColor=%230077B5" width="100" height="25"/> 
+  <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=MPaTXD&countColorcountColor&countColor=%230077B5" width="100" height="25"/> 
 </div>
 
 <div>
