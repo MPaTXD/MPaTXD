@@ -57,14 +57,16 @@
 
 ##
 <div align="left">
-  <a href="" target="_blank"> <img src="https://img.shields.io/badge/XBOX-SERIES_S-107C10?style=for-the-badge&logo=xbox&logoColor=white" width="160" height="30"/> </a> 
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="142" height="30"/> </a> 
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" width="180" height="30"/> </a> 
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" width="180" height="30"/> </a>
-  <img align="right" alt="" width="270" height="210" src="https://c.tenor.com/lnHy5A_HnVMAAAAC/pc-master-race-gaming.gif">
+   <img align="right" alt="" width="220" height="180" src="https://c.tenor.com/lnHy5A_HnVMAAAAC/pc-master-race-gaming.gif">
+   <div>
+      <a href="" target="_blank"> <img src="https://img.shields.io/badge/XBOX-SERIES_S-107C10?style=for-the-badge&logo=xbox&logoColor=white" width="160" height="30"/> </a> 
+   </div>
 </div>
 
-<h3><img src="https://emoji.discord.st/emojis/5b559c94-0c62-403a-accf-2a406eeb16cb.gif" width="25" height="25"> Passa tempo depois de uma longa jornada</h3>
+<h3><img src="https://emoji.discord.st/emojis/5b559c94-0c62-403a-accf-2a406eeb16cb.gif" width="25" height="25"> Passatempo </h3>
 
 ##
 <div>
