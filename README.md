@@ -45,7 +45,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=MPaTXD&count_private=true&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/MPaTXD">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&count_private=true&show_icons=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPaTXD&count_private=true&show_icons=true&theme=tokyonight" />
   </a>
 </div>
 
