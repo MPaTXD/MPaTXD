@@ -2,7 +2,7 @@
    <img alt="banner" src="https://www.teahub.io/photos/full/284-2841446_pixel-art-cyberpunk-gif.gif">
 </div>
 
-<h1>Hello, It’s a-me Matheus Patricio!</h1>
+<h1>Hello, It’s me Matheus Patricio!</h1>
 <div>
   <ul>
     <li>🎓 Técnico em desenvolvimento de sistemas pelo SENAI CIMATEC</li>
