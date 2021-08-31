@@ -1,5 +1,5 @@
 <div>
-   <img alt="banner" src="https://i.redd.it/d0o107bmuck11.gif">
+   <img alt="banner" src="https://www.teahub.io/photos/full/284-2841446_pixel-art-cyberpunk-gif.gif">
 </div>
 
 <h1>Hello, It’s a-me Matheus Patricio!</h1>
@@ -39,8 +39,8 @@
 
 
 ## 
+<h3 align="center"><img src="https://emoji.discord.st/emojis/0aa7450f-9598-448e-b8f5-26f88db1c04a.gif" width="25" height="25"> Stats</h3>
 <div align="center"> 
-   <h3><img src="https://emoji.discord.st/emojis/0aa7450f-9598-448e-b8f5-26f88db1c04a.gif" width="25" height="25"> Stats</h3>
    <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=MPaTXD&count_private=true&show_icons=true&theme=tokyonight" />
   </a>
@@ -51,15 +51,17 @@
 
 
 ##
-
-<img align="right" alt="" width="180" height="140" src="https://c.tenor.com/lnHy5A_HnVMAAAAC/pc-master-race-gaming.gif">
+<h3><img src="https://emoji.discord.st/emojis/f81e2ca1-34e1-4192-ae1f-0c55c470f601.gif" width="25" height="25"> Setup</h3>
 <div>
-  <h3><img src="https://emoji.discord.st/emojis/f81e2ca1-34e1-4192-ae1f-0c55c470f601.gif" width="25" height="25"> Setup</h3>
-  <a href="" target="_blank"> <img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="142" height="30"/> </a> 
-  <a href="" target="_blank"> <img src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" width="180" height="30"/> </a> 
-  <a href="" target="_blank"> <img src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" width="180" height="30"/> </a>
+  <div align="left">
+     <a href="" target="_blank"> <img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="142" height="30"/> </a> 
+     <a href="" target="_blank"> <img src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" width="180" height="30"/> </a> 
+     <a href="" target="_blank"> <img src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" width="180" height="30"/> </a>
+     <div>
+     <img src="https://c.tenor.com/lnHy5A_HnVMAAAAC/pc-master-race-gaming.gif" width="510" height="278">
+     </div>
+  </div>
 </div>
-
 
 
 ##
@@ -75,13 +77,9 @@
 
 ##
 <div>
-   <h3><img src="https://emoji.discord.st/emojis/aea6b19d-1ebb-42b9-98d6-4136ff2ede45.gif" width="25" height="25"/> Repositorios</h3>
+   <h3><img src="https://emoji.discord.st/emojis/aea6b19d-1ebb-42b9-98d6-4136ff2ede45.gif" width="25" height="25"/> Repositório</h3>
 </div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&repo=MPaTXD&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=151515)](https://github.com/MPaTXD/MPaTXD)
-
-
-
-
 
 
