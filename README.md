@@ -1,6 +1,10 @@
+<div align="left">
+   <img alt="Coding" width="1000" height="388" src="https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv">
+</div>
 <div>
    <h2>Hello, It’s a-me Matheus Patricio!</h2>
-
+   
+   
 - 🎓 Técnico em desenvolvimento de sistemas pelo SENAI CIMATEC
 - 💹 Competência em C#, ASP.NET MVC, JAVA
 - 🖥️ Atualmente estudando Golang e C#
@@ -10,7 +14,6 @@
   <a href="https://www.linkedin.com/in/matheuspatricio/" target="_blank"> <img src="https://img.shields.io/badge/Linkedin-Perfil-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="25"/> </a>
   <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=MPaTXD&countColorcountColor&countColor=%230077B5" width="100" height="25"/> 
 </div>
-   <img align="right" alt="Coding" width="340" height="380" src="https://c.tenor.com/-BVsDZoO0d8AAAAC/dedinho-anime.gif">
 
 <br>
 <br>
@@ -56,10 +59,10 @@
 
 ##
 <div align="left">
+  <img align="right" alt="" width="180" height="140" src="https://c.tenor.com/lnHy5A_HnVMAAAAC/pc-master-race-gaming.gif">
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="142" height="30"/> </a> 
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" width="180" height="30"/> </a> 
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" width="180" height="30"/> </a>
-  <img align="right" alt="" width="180" height="140" src="https://c.tenor.com/lnHy5A_HnVMAAAAC/pc-master-race-gaming.gif">
    <div>
       <a href="" target="_blank"> <img src="https://img.shields.io/badge/XBOX-SERIES_S-107C10?style=for-the-badge&logo=xbox&logoColor=white" width="160" height="30"/> </a> 
    </div>
