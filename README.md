@@ -1,5 +1,4 @@
 <div>
-   <img align="right" alt="Coding" width="340" height="380" src="https://c.tenor.com/-BVsDZoO0d8AAAAC/dedinho-anime.gif">
    <h2>Hello, It’s a-me Matheus Patricio!</h2>
 
 - 🎓 Técnico em desenvolvimento de sistemas pelo SENAI CIMATEC
@@ -11,6 +10,7 @@
   <a href="https://www.linkedin.com/in/matheuspatricio/" target="_blank"> <img src="https://img.shields.io/badge/Linkedin-Perfil-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="25"/> </a>
   <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=MPaTXD&countColorcountColor&countColor=%230077B5" width="100" height="25"/> 
 </div>
+   <img align="right" alt="Coding" width="340" height="380" src="https://c.tenor.com/-BVsDZoO0d8AAAAC/dedinho-anime.gif">
 
 <br>
 <br>
@@ -26,8 +26,8 @@
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="85" height="40"/> </a> 
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="100" height="40"/> </a>
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="70" height="40"/> </a> 
-  <a href="" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="160" height="40"/> </a> 
   <div>
+    <a href="" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="160" height="40"/> </a> 
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="90" height="40"/> </a> 
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" width="85" height="40"/> </a>
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" width="150" height="40"/> </a>
