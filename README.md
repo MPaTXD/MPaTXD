@@ -1,10 +1,6 @@
 <div>
-   <img align="right" alt="Coding" width="400" height="413" src="https://c.tenor.com/-BVsDZoO0d8AAAAC/dedinho-anime.gif">
-</div>
-
-<br>
-
-## Hello, It’s a-me Matheus Patricio!
+   <img align="right" alt="Coding" width="340" height="380" src="https://c.tenor.com/-BVsDZoO0d8AAAAC/dedinho-anime.gif">
+   <h2>Hello, It’s a-me Matheus Patricio!</h2>
 
 - 🎓 Técnico em desenvolvimento de sistemas pelo SENAI CIMATEC
 - 💹 Competência em C#, ASP.NET MVC, JAVA
@@ -16,8 +12,11 @@
   <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=MPaTXD&countColorcountColor&countColor=%230077B5" width="100" height="25"/> 
 </div>
 
-<div>
-<h3 align="center"><img src="https://emoji.discord.st/emojis/afadae59-17dd-4217-bf4f-f3ae92f27ab6.gif" width="25" height="25"> Languages and Tools</h3>
+<br>
+<br>
+
+<div align="center">
+<h3><img src="https://emoji.discord.st/emojis/afadae59-17dd-4217-bf4f-f3ae92f27ab6.gif" width="25" height="25"> Languages and Tools</h3>
 </div>
 
 ## 
