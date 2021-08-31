@@ -1,5 +1,5 @@
 <div align="left">
-   <img alt="Coding" width="1000" height="388" src="https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv">
+   <img alt="Coding" class="responsive" width="1000" height="388" src="https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv">
 </div>
 <div>
    <h2>Hello, It’s a-me Matheus Patricio!</h2>
