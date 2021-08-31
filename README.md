@@ -17,7 +17,7 @@
 </div>
 
 <div>
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center"><img src="https://emoji.discord.st/emojis/afadae59-17dd-4217-bf4f-f3ae92f27ab6.gif" width="25" height="25"> Languages and Tools</h3>
 </div>
 
 ## 
@@ -39,7 +39,7 @@
 
 <br>
 
-<h3 align="center">Stats:</h3>
+<h3 align="center"><img src="https://emoji.discord.st/emojis/0aa7450f-9598-448e-b8f5-26f88db1c04a.gif" width="25" height="25"> Stats</h3>
 
 ## 
 <div align="center"> 
@@ -53,7 +53,7 @@
 
 <br>
 
-<h3>💻 Setup</h3>
+<h3><img src="https://emoji.discord.st/emojis/f81e2ca1-34e1-4192-ae1f-0c55c470f601.gif" width="25" height="25"> Setup</h3>
 
 ##
 <div align="left">
@@ -61,10 +61,10 @@
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="142" height="30"/> </a> 
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" width="180" height="30"/> </a> 
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" width="180" height="30"/> </a>
+  <img align="right" alt="" width="270" height="210" src="https://c.tenor.com/lnHy5A_HnVMAAAAC/pc-master-race-gaming.gif">
 </div>
 
-
-<h3>🎮🕹 Passa tempo depois de uma longa jornada</h3>
+<h3><img src="https://emoji.discord.st/emojis/5b559c94-0c62-403a-accf-2a406eeb16cb.gif" width="25" height="25"> Passa tempo depois de uma longa jornada</h3>
 
 ##
 <div>
@@ -75,13 +75,12 @@
 
 ![Snake animation](https://github.com/MPaTXD/MPaTXD/blob/output/github-contribution-grid-snake.svg) 
 
-
-<h3>💻 Repositorios</h3>
+<h3><img src="https://emoji.discord.st/emojis/aea6b19d-1ebb-42b9-98d6-4136ff2ede45.gif" width="25" height="25"/> Repositorios</h3>
 
 ##
-<div>
-  
-</div>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&repo=MPaTXD&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=151515)](https://github.com/MPaTXD/MPaTXD)
+
 
 
 
