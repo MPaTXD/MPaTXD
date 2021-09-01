@@ -15,7 +15,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/matheuspatricio/" target="_blank"> <img src="https://img.shields.io/badge/Linkedin-Perfil-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="25"/> </a>
-  <a> <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=MPaTXD&countColorcountColor&countColor=%230077B5" width="100" height="25"/> </a>
+  <a><img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=MPaTXD&countColorcountColor&countColor=%230077B5" width="100" height="25"/></a>
 </div>
 
 
@@ -62,7 +62,7 @@
 
 
 <div>
-  <h2><img src="https://emoji.discord.st/emojis/5b559c94-0c62-403a-accf-2a406eeb16cb.gif" width="25" height="25"> Passatempo</h2>
+  <h2><img src="https://emoji.discord.st/emojis/5b559c94-0c62-403a-accf-2a406eeb16cb.gif" width="25" height="25"> Hobby</h2>
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/XBOX-SERIES_S-107C10?style=for-the-badge&logo=xbox&logoColor=white" width="160" height="30"/> </a> 
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" width="120" height="30"/> </a>
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" width="90" height="30"/> </a> 
@@ -73,7 +73,7 @@
 
 
 <div>
-   <h2><img src="https://emoji.discord.st/emojis/aea6b19d-1ebb-42b9-98d6-4136ff2ede45.gif" width="25" height="25"/> Repositório</h2>
+   <h2><img src="https://emoji.discord.st/emojis/aea6b19d-1ebb-42b9-98d6-4136ff2ede45.gif" width="25" height="25"/> Repository</h2>
 </div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Campo-Minado-C&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=151515)](https://github.com/MPaTXD/Campo-Minado-C)
