@@ -13,7 +13,7 @@
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25">
 </a>
 
-<img align="right" width="115" height="190" src="http://1.bp.blogspot.com/-Htv5BlT8nhs/TZIvPoPGH5I/AAAAAAAAABs/NBLV4dt4YN8/s1600/leona-12s%255B1%255D.gif">
+<img align="right" width="110" height="185" src="http://1.bp.blogspot.com/-Htv5BlT8nhs/TZIvPoPGH5I/AAAAAAAAABs/NBLV4dt4YN8/s1600/leona-12s%255B1%255D.gif">
 <div>
   <dl>
     <dt>🎓 Técnico em desenvolvimento de sistemas pelo SENAI CIMATEC;</dt>
