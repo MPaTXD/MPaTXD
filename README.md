@@ -81,8 +81,8 @@
 </div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&repo=Campo-Minado-C&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=151515)](https://github.com/MPaTXD/Campo-Minado-C)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&repo=UNO-C&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=151515)](https://github.com/MPaTXD/UNO-C)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&repo=Carona-Solidaria-Cimatec&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=151515)](https://github.com/MPaTXD/Carona-Solidaria-Cimatec)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&repo=Projeto-Banda-Cimatec&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=151515)](https://github.com/MPaTXD/Projeto-Banda-Cimatec)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&repo=UNO-C&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=151515)](https://github.com/MPaTXD/UNO-C)
 
 
