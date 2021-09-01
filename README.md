@@ -82,7 +82,7 @@
 </div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&repo=Campo-Minado-C&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=151515)](https://github.com/MPaTXD/Campo-Minado-C)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&repo=Carona-Solidaria-Cimatec&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=151515)](https://github.com/MPaTXD/Carona-Solidaria-Cimatec)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&repo=Projeto-Banda-Cimatec&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=151515)](https://github.com/MPaTXD/Projeto-Banda-Cimatec)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&repo=&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=151515)](https://github.com/MPaTXD/Carona-Solidaria-Cimatec)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&repo=&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=151515)](https://github.com/MPaTXD/Projeto-Banda-Cimatec)
 
 
