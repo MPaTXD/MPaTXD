@@ -19,9 +19,8 @@
 </div>
 
 
-## 
 <div align="center">
-  <h3><img src="https://emoji.discord.st/emojis/afadae59-17dd-4217-bf4f-f3ae92f27ab6.gif" width="25" height="25"> Languages and Tools</h3>
+  <h2><img src="https://emoji.discord.st/emojis/afadae59-17dd-4217-bf4f-f3ae92f27ab6.gif" width="25" height="25"> Languages and Tools</h2>
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="150" height="40"/> </a> 
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="135" height="40"/> </a> 
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="85" height="40"/> </a> 
@@ -38,8 +37,7 @@
 </div>
 
 
-## 
-<h3 align="center"><img src="https://emoji.discord.st/emojis/0aa7450f-9598-448e-b8f5-26f88db1c04a.gif" width="25" height="25"> Stats</h3>
+<h2 align="center"><img src="https://emoji.discord.st/emojis/0aa7450f-9598-448e-b8f5-26f88db1c04a.gif" width="25" height="25"> Stats</h2>
 <div align="center"> 
    <a href="https://github.com/MPaTXD">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MPaTXD&count_private=false&show_icons=true&theme=tokyonight" />
@@ -50,9 +48,7 @@
 </div>
 
 
-
-##
-<h3><img src="https://emoji.discord.st/emojis/f81e2ca1-34e1-4192-ae1f-0c55c470f601.gif" width="25" height="25"> Setup</h3>
+<h2><img src="https://emoji.discord.st/emojis/f81e2ca1-34e1-4192-ae1f-0c55c470f601.gif" width="25" height="25"> Setup</h2>
 <div>
   <div align="left">
      <a href="" target="_blank"> <img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="142" height="30"/> </a> 
@@ -65,21 +61,20 @@
 </div>
 
 
-##
 <div>
-  <h3><img src="https://emoji.discord.st/emojis/5b559c94-0c62-403a-accf-2a406eeb16cb.gif" width="25" height="25"> Passatempo</h3>
+  <h2><img src="https://emoji.discord.st/emojis/5b559c94-0c62-403a-accf-2a406eeb16cb.gif" width="25" height="25"> Passatempo</h2>
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/XBOX-SERIES_S-107C10?style=for-the-badge&logo=xbox&logoColor=white" width="160" height="30"/> </a> 
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" width="120" height="30"/> </a>
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" width="90" height="30"/> </a> 
 </div>
 
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/MPaTXD/MPaTXD/output/github-contribution-grid-snake.svg)
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
-##
 <div>
-   <h3><img src="https://emoji.discord.st/emojis/aea6b19d-1ebb-42b9-98d6-4136ff2ede45.gif" width="25" height="25"/> Repositório</h3>
+   <h2><img src="https://emoji.discord.st/emojis/aea6b19d-1ebb-42b9-98d6-4136ff2ede45.gif" width="25" height="25"/> Repositório</h2>
 </div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Campo-Minado-C&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=151515)](https://github.com/MPaTXD/Campo-Minado-C)
