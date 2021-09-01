@@ -75,7 +75,6 @@
 
 ![Snake animation](https://github.com/MPaTXD/MPaTXD/blob/output/github-contribution-grid-snake.svg) 
 
-
 ##
 <div>
    <h3><img src="https://emoji.discord.st/emojis/aea6b19d-1ebb-42b9-98d6-4136ff2ede45.gif" width="25" height="25"/> Repositório</h3>
