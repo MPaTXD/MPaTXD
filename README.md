@@ -71,7 +71,6 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/MPaTXD/MPaTXD/output/github-contribution-grid-snake.svg)
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <div>
    <h2><img src="https://emoji.discord.st/emojis/aea6b19d-1ebb-42b9-98d6-4136ff2ede45.gif" width="25" height="25"/> Repositório</h2>
