@@ -53,7 +53,7 @@
      <a href="https://github.com/MPaTXD" target="_blank"> <img src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" width="180" height="30"/> </a> 
      <a href="https://github.com/MPaTXD" target="_blank"> <img src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" width="180" height="30"/> </a>
      <div>
-     <img src="https://c.tenor.com/lnHy5A_HnVMAAAAC/pc-master-race-gaming.gif" width="510" height="276">
+     <img src="https://i0.wp.com/i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif" width="510" height="276">
      </div>
   </div>
 </div>
