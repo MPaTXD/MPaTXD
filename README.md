@@ -4,6 +4,9 @@
 
 <h1>Hello, It’s me Matheus Patricio!</h1>
 <div>
+  <a href="https://www.linkedin.com/in/matheuspatricio/" target="_blank"> <img src="https://img.shields.io/badge/Linkedin-Perfil-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="25"/> </a>
+</div>
+<div>
   <ul>
     <li>🎓 Técnico em desenvolvimento de sistemas pelo SENAI CIMATEC</li>
     <li>💹 Competência em C#, ASP.NET MVC, JAVA</li>
@@ -11,10 +14,6 @@
     <li>👯 Buscando oportunidades como desenvolvedor de software; experiência com projeto final de curso com cliente real</li>
     <li>🥇 Classificado para a etapa Nacional do campeonato de Robótica FLL (First Lego League) em 2013</li>
   </ul>
-</div>
-
-<div>
-  <a href="https://www.linkedin.com/in/matheuspatricio/" target="_blank"> <img src="https://img.shields.io/badge/Linkedin-Perfil-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="25"/> </a>
 </div>
 
 
