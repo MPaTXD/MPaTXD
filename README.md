@@ -4,29 +4,27 @@
    <img width="30" height="30" src="https://emoji.gg/assets/emoji/4708_Pikachu_Hello.gif"/> 
    Hello, It’s me Matheus Patricio
    <img width="30" height="30" src="https://emoji.gg/assets/emoji/4708_Pikachu_Hello.gif"/>
-   <a href="https://www.linkedin.com/in/matheuspatricio/" target="_blank"> 
-      <img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
-   </a>
-   <a href="https://github.com/MPaTXD" target="_blank"> 
-      <img align="right" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25">
-   </a>
 </h1> 
 
-<img align="right" width='161' height='228' src="https://www.fightersgeneration.com/np5/kof12/leona-12s.gif">
+<a href="https://www.linkedin.com/in/matheuspatricio/" target="_blank"> 
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
+</a>
+<a href="https://github.com/MPaTXD" target="_blank"> 
+   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25">
+</a>
 
-<br>
-<br>
+<img align="right" width="120" height="198" src="http://1.bp.blogspot.com/-Htv5BlT8nhs/TZIvPoPGH5I/AAAAAAAAABs/NBLV4dt4YN8/s1600/leona-12s%255B1%255D.gif">
 <div>
-  <ul>
-    <li>🎓 Técnico em desenvolvimento de sistemas pelo SENAI CIMATEC;</li>
-    <li>💹 Competência em C#, ASP.NET MVC, JAVA;</li>
-    <li>🖥️ Atualmente estudando Golang e C#;</li>
-    <li>👯 Buscando oportunidades como desenvolvedor de software; experiência com projeto final de curso com cliente real;</li>
-    <li>🥇 Classificado para a etapa Nacional do campeonato de Robótica FLL (First Lego League) em 2013.</li>
-  </ul>
+  <dl>
+    <dt>🎓 Técnico em desenvolvimento de sistemas pelo SENAI CIMATEC;</dt>
+    <dt>💹 Competência em C#, ASP.NET MVC, JAVA;</dt>
+    <dt>🖥️ Atualmente estudando Golang e C#;</dt>
+    <dt>👯 Buscando oportunidades como desenvolvedor Jr; experiência com projeto final de curso com cliente real;</dt>
+    <dt>🥇 Classificado para a etapa Nacional do campeonato de Robótica FLL (First Lego League) em 2013.</dt>
+  </dl>
 </div>
 <br>
-
+<br>
 <div align="center">
   <h2><img src="https://emoji.discord.st/emojis/afadae59-17dd-4217-bf4f-f3ae92f27ab6.gif" width="25" height="25"> Languages and Tools</h2>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="25"/>
