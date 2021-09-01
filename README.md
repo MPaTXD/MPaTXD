@@ -42,10 +42,10 @@
 <h3 align="center"><img src="https://emoji.discord.st/emojis/0aa7450f-9598-448e-b8f5-26f88db1c04a.gif" width="25" height="25"> Stats</h3>
 <div align="center"> 
    <a href="https://github.com/MPaTXD">
-    <img src="https://github-readme-stats.vercel.app/api?username=MPaTXD&count_private=false&show_icons=true&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MPaTXD&count_private=false&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/MPaTXD">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPaTXD&count_private=false&layout=compact&show_icons=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPaTXD&count_private=false&layout=compact&show_icons=true&theme=tokyonight"/>
   </a>
 </div>
 
