@@ -81,5 +81,6 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=UNO-C&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=151515)](https://github.com/MPaTXD/UNO-C)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Carona-Solidaria-Cimatec&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=151515)](https://github.com/MPaTXD/Carona-Solidaria-Cimatec)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Projeto-Banda-Cimatec&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=151515)](https://github.com/MPaTXD/Projeto-Banda-Cimatec)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Estudo-Go-RestAPI-JWT&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=151515)](https://github.com/MPaTXD/Estudo-Go-RestAPI-JWT)
 
 
