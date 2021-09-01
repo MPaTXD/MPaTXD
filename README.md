@@ -49,9 +49,9 @@
 <h2><img src="https://emoji.discord.st/emojis/f81e2ca1-34e1-4192-ae1f-0c55c470f601.gif" width="25" height="25"> Setup</h2>
 <div>
   <div align="left">
-     <a href="" target="_blank"> <img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="142" height="30"/> </a> 
-     <a href="" target="_blank"> <img src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" width="180" height="30"/> </a> 
-     <a href="" target="_blank"> <img src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" width="180" height="30"/> </a>
+     <a href="https://github.com/MPaTXD" target="_blank"> <img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="142" height="30"/> </a> 
+     <a href="https://github.com/MPaTXD" target="_blank"> <img src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" width="180" height="30"/> </a> 
+     <a href="https://github.com/MPaTXD" target="_blank"> <img src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" width="180" height="30"/> </a>
      <div>
      <img src="https://c.tenor.com/lnHy5A_HnVMAAAAC/pc-master-race-gaming.gif" width="510" height="276">
      </div>
@@ -61,9 +61,9 @@
 
 <div>
   <h2><img src="https://emoji.discord.st/emojis/5b559c94-0c62-403a-accf-2a406eeb16cb.gif" width="25" height="25"> Hobby</h2>
-  <a href="" target="_blank"> <img src="https://img.shields.io/badge/XBOX-SERIES_S-107C10?style=for-the-badge&logo=xbox&logoColor=white" width="160" height="30"/> </a> 
-  <a href="" target="_blank"> <img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" width="120" height="30"/> </a>
-  <a href="" target="_blank"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" width="90" height="30"/> </a> 
+  <a href="https://github.com/MPaTXD" target="_blank"> <img src="https://img.shields.io/badge/XBOX-SERIES_S-107C10?style=for-the-badge&logo=xbox&logoColor=white" width="160" height="30"/> </a> 
+  <a href="https://github.com/MPaTXD" target="_blank"> <img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" width="120" height="30"/> </a>
+  <a href="https://github.com/MPaTXD" target="_blank"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" width="90" height="30"/> </a> 
 </div>
 
 
