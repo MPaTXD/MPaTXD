@@ -73,7 +73,9 @@
   <a href="" target="_blank"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" width="90" height="30"/> </a> 
 </div>
 
-![Snake animation](https://github.com/MPaTXD/MPaTXD/blob/output/github-contribution-grid-snake.svg) 
+![github contribution grid snake animation](https://raw.githubusercontent.com/MPaTXD/MPaTXD/output/github-contribution-grid-snake.svg)
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 ##
 <div>
