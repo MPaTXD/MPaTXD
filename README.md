@@ -17,7 +17,7 @@
 <div>
   <dl>
     <dt>🎓 Técnico em desenvolvimento de sistemas pelo SENAI CIMATEC;</dt>
-    <dt>💹 Competência em C#, ASP.NET MVC, JAVA;</dt>
+    <dt>💹 Competência em C, C#, ASP.NET MVC, JAVA;</dt>
     <dt>🖥️ Atualmente estudando Golang e C#;</dt>
     <dt>👯 Buscando oportunidades como desenvolvedor Jr; experiência com projeto final de curso com cliente real;</dt>
     <dt>🥇 Classificado para a etapa Nacional do campeonato de Robótica FLL (First Lego League) em 2013.</dt>
