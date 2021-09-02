@@ -80,7 +80,7 @@
 </div>
 <br>
 <div align="center">
-   <img alt="StatusImagem" src="https://i0.wp.com/i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif" width="510" height="276">
+   <img alt="SetupImagem" src="https://cdn.dribbble.com/users/521912/screenshots/13911181/media/2053a15d64873ea11f9e6cc5cb26f227.gif" width="453" height="320">
 </div>
 
 <h2 align="center"><img alt="Hobby" src="https://emoji.discord.st/emojis/5b559c94-0c62-403a-accf-2a406eeb16cb.gif" width="25" height="25"> Hobby</h2>
