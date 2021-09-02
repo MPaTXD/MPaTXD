@@ -46,29 +46,29 @@
 <h2 align="center"><img alt="Status" src="https://emoji.gg/assets/emoji/4023-nitro.gif" width="25" height="25"> Stats</h2>
 <div align="center"> 
    <a href="https://github.com/MPaTXD">
-    <img alt="BagStatus" height="180em" src="https://github-readme-stats.vercel.app/api?username=MPaTXD&count_private=false&show_icons=true&theme=tokyonight&border_color=0d1117" />
+    <img alt="BagStatus" height="184em" src="https://github-readme-stats.vercel.app/api?username=MPaTXD&count_private=false&show_icons=true&locale=pt-br&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/MPaTXD">
-    <img alt="BagLinguagens" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPaTXD&count_private=false&layout=compact&show_icons=true&theme=tokyonight&border_color=0d1117"/>
+    <img alt="BagLinguagens" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPaTXD&count_private=false&layout=compact&show_icons=true&locale=pt-br&theme=tokyonight&hide_border=true&langs_count=8"/>
   </a>
 </div>
 
 <h2 align="center"><img alt="Repositorio" src="https://emoji.discord.st/emojis/aea6b19d-1ebb-42b9-98d6-4136ff2ede45.gif" width="25" height="25"/> Repository</h2>
 <div align="center"> 
    <a href="https://github.com/MPaTXD/Campo-Minado-C">
-    <img alt="RepositorioCampo" height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Campo-Minado-C&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&border_color=0d1117"/>
+    <img alt="RepositorioCampo" height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Campo-Minado-C&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
   <a href="https://github.com/MPaTXD/UNO-C">
-    <img alt="RepositorioUno" height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=UNO-C&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&border_color=0d1117"/>
+    <img alt="RepositorioUno" height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=UNO-C&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
    <a href="https://github.com/MPaTXD/Carona-Solidaria-Cimatec">
-    <img alt="RepositorioCarono" height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Carona-Solidaria-Cimatec&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&border_color=0d1117"/>
+    <img alt="RepositorioCarono" height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Carona-Solidaria-Cimatec&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
    <a href="https://github.com/MPaTXD/Projeto-Banda-Cimatec">
-    <img alt="RepositorioBanda" height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Projeto-Banda-Cimatec&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&border_color=0d1117"/>
+    <img alt="RepositorioBanda" height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Projeto-Banda-Cimatec&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
    <a href="https://github.com/MPaTXD/Estudo-Go-RestAPI-JWT">
-    <img alt="RepositorioEstudo" height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Estudo-Go-RestAPI-JWT&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&border_color=0d1117"/>
+    <img alt="RepositorioEstudo" height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Estudo-Go-RestAPI-JWT&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
 </div>
 
