@@ -57,19 +57,19 @@
 <h2 align="center"><img src="https://emoji.discord.st/emojis/aea6b19d-1ebb-42b9-98d6-4136ff2ede45.gif" width="25" height="25"/> Repository</h2>
 <div align="center"> 
    <a href="https://github.com/MPaTXD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Campo-Minado-C&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&border_color=0d1117"/>
+    <img height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Campo-Minado-C&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&border_color=0d1117"/>
   </a>
   <a href="https://github.com/MPaTXD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=UNO-C&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&border_color=0d1117"/>
+    <img height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=UNO-C&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&border_color=0d1117"/>
   </a>
    <a href="https://github.com/MPaTXD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Carona-Solidaria-Cimatec&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&border_color=0d1117"/>
+    <img height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Carona-Solidaria-Cimatec&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&border_color=0d1117"/>
   </a>
    <a href="https://github.com/MPaTXD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Projeto-Banda-Cimatec&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&border_color=0d1117"/>
+    <img height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Projeto-Banda-Cimatec&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&border_color=0d1117"/>
   </a>
    <a href="https://github.com/MPaTXD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Estudo-Go-RestAPI-JWT&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&border_color=0d1117"/>
+    <img height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Estudo-Go-RestAPI-JWT&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&border_color=0d1117"/>
   </a>
 </div>
 
