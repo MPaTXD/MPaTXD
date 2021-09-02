@@ -70,6 +70,9 @@
    <a href="https://github.com/MPaTXD/Estudo-Go-RestAPI-JWT">
     <img alt="RepositorioEstudo" height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Estudo-Go-RestAPI-JWT&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
+   <a href="https://github.com/MPaTXD/CRUD-ASP.NET-MVC">
+    <img alt="RepositorioBanda" height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=CRUD-ASP.NET-MVC&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
+  </a>
 </div>
 
 <h2 align="center"><img alt="Setup" src="https://emoji.discord.st/emojis/f81e2ca1-34e1-4192-ae1f-0c55c470f601.gif" width="25" height="25"> Setup</h2>
