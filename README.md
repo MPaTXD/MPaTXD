@@ -64,8 +64,8 @@
    <a href="https://github.com/MPaTXD/Carona-Solidaria-Cimatec">
     <img alt="RepositorioCarono" height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Carona-Solidaria-Cimatec&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
-   <a href="https://github.com/MPaTXD/Projeto-Banda-Cimatec">
-    <img alt="RepositorioBanda" height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Projeto-Banda-Cimatec&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
+   <a href="https://github.com/MPaTXD/PROJETO-CURSO-ASP.NET">
+    <img alt="RepositorioBanda" height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=PROJETO-CURSO-ASP.NET&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
    <a href="https://github.com/MPaTXD/Estudo-Go-RestAPI-JWT">
     <img alt="RepositorioEstudo" height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Estudo-Go-RestAPI-JWT&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
