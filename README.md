@@ -23,8 +23,6 @@
     <dt>🥇 Classificado para a etapa Nacional do campeonato de Robótica FLL (First Lego League) em 2013.</dt>
   </dl>
 </div>
-<br>
-<br>
 
 <div align="center">
   <h2><img src="https://emoji.discord.st/emojis/afadae59-17dd-4217-bf4f-f3ae92f27ab6.gif" width="25" height="25"> Languages and Tools</h2>
