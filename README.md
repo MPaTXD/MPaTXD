@@ -16,10 +16,10 @@
 <img alt="GifPerfil" align="right" width="113" height="183" src="http://1.bp.blogspot.com/-Htv5BlT8nhs/TZIvPoPGH5I/AAAAAAAAABs/NBLV4dt4YN8/s1600/leona-12s%255B1%255D.gif">
 <div>
   <dl>
+    <dt>⚔️ Analista de Sistemas .Net Jr na Welcome the Future;</dt>
     <dt>🎓 Técnico em desenvolvimento de sistemas pelo SENAI CIMATEC;</dt>
     <dt>💹 Competência em C, C#, ASP.NET MVC, JAVA;</dt>
-    <dt>🖥️ Atualmente estudando Golang e C#;</dt>
-    <dt>👯 Buscando oportunidades como desenvolvedor Jr; experiência com projeto final de curso com cliente real;</dt>
+    <dt>💻 Atualmente estudando Dotnet e C#;</dt>
     <dt>🥇 Classificado para a etapa Nacional do campeonato de Robótica FLL (First Lego League) em 2013.</dt>
   </dl>
 </div>
