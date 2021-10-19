@@ -74,7 +74,7 @@
     <img alt="RepositorioDesafioKinvo" height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Desafio-Kinvo-Aprendizado&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
    <a href="https://github.com/MPaTXD/Sistema-de-Cadastro-de-Atentimentos">
-    <img alt="RepositorioSistemaDeCadastroDeAtendimentos" height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Sistema-de-Cadastro-de-Atentimentos&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
+    <img alt="RepositorioSistemaDeCadastroDeAtendimentos" height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Sistema-de-Cadastro-de-Atentimentos&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
 </div>
 
