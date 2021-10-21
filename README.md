@@ -74,10 +74,10 @@
     <img alt="RepositorioDesafioKinvo" height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Desafio-Kinvo-Aprendizado&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
    <a href="https://github.com/MPaTXD/Sistema-de-Atentimentos">
-    <img alt="RepositorioSistemadeAtentimentos" height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Sistema-de-Atentimentos&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
+    <img alt="RepositorioSistemadeAtentimentos" height="126em" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Sistema-de-Atentimentos&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
    <a href="https://github.com/MPaTXD/OFICINA_IDEIAS_CURSO">
-    <img alt="RepositorioOficinaIdeias" height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=OFICINA_IDEIAS_CURSO&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
+    <img alt="RepositorioOficinaIdeias" height="126em" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=OFICINA_IDEIAS_CURSO&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
 </div>
 
