@@ -43,7 +43,7 @@
 <h2 align="center"><img alt="Status" src="https://emoji.gg/assets/emoji/4023-nitro.gif" width="25" height="25"> Stats</h2>
 <div align="center"> 
    <a href="https://github.com/MPaTXD">
-    <img alt="BagStatus" height="180em" src="https://github-readme-stats.vercel.app/api?username=MPaTXD&count_private=false&show_icons=true&locale=pt-br&theme=tokyonight&hide_border=true" />
+    <img alt="BagStatus" height="174em" src="https://github-readme-stats.vercel.app/api?username=MPaTXD&count_private=false&show_icons=true&locale=pt-br&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/MPaTXD">
     <img alt="BagLinguagens" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPaTXD&count_private=false&layout=compact&show_icons=true&locale=pt-br&theme=tokyonight&hide_border=true&langs_count=8"/>
