@@ -43,17 +43,17 @@
 <h2 align="center"><img alt="Status" src="https://emoji.gg/assets/emoji/4023-nitro.gif" width="25" height="25"> Stats</h2>
 <div align="center"> 
    <a href="https://github.com/MPaTXD">
-    <img alt="BagStatus" height="184em" src="https://github-readme-stats.vercel.app/api?username=MPaTXD&count_private=false&show_icons=true&locale=pt-br&theme=tokyonight&hide_border=true" />
+    <img alt="BagStatus" height="180em" src="https://github-readme-stats.vercel.app/api?username=MPaTXD&count_private=false&show_icons=true&locale=pt-br&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/MPaTXD">
-    <img alt="BagLinguagens" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPaTXD&count_private=false&layout=compact&show_icons=true&locale=pt-br&theme=tokyonight&hide_border=true&langs_count=8"/>
+    <img alt="BagLinguagens" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPaTXD&count_private=false&layout=compact&show_icons=true&locale=pt-br&theme=tokyonight&hide_border=true&langs_count=8"/>
   </a>
 </div>
 
 <h2 align="center"><img alt="Repositorio" src="https://emoji.discord.st/emojis/aea6b19d-1ebb-42b9-98d6-4136ff2ede45.gif" width="25" height="25"/> Repository</h2>
 <div align="center"> 
    <a href="https://github.com/MPaTXD/Campo-Minado-C">
-    <img alt="RepositorioCampo" height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Campo-Minado-C&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
+    <img alt="RepositorioCampo" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Campo-Minado-C&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
   <a href="https://github.com/MPaTXD/UNO-C">
     <img alt="RepositorioUno" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=UNO-C&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
@@ -62,22 +62,22 @@
     <img alt="RepositorioCarono" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Carona-Solidaria-Cimatec&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
    <a href="https://github.com/MPaTXD/PROJETO-CURSO-ASP.NET">
-    <img alt="RepositorioBanda" height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=PROJETO-CURSO-ASP.NET&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
+    <img alt="RepositorioBanda" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=PROJETO-CURSO-ASP.NET&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
    <a href="https://github.com/MPaTXD/Estudo-Go-RestAPI-JWT">
-    <img alt="RepositorioEstudo" height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Estudo-Go-RestAPI-JWT&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
+    <img alt="RepositorioEstudo" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Estudo-Go-RestAPI-JWT&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
    <a href="https://github.com/MPaTXD/CRUD-ASP.NET-MVC">
-    <img alt="RepositorioBanda" height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=CRUD-ASP.NET-MVC&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
+    <img alt="RepositorioBanda" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=CRUD-ASP.NET-MVC&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
    <a href="https://github.com/MPaTXD/Desafio-Kinvo-Aprendizado">
-    <img alt="RepositorioDesafioKinvo" height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Desafio-Kinvo-Aprendizado&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
+    <img alt="RepositorioDesafioKinvo" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Desafio-Kinvo-Aprendizado&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
    <a href="https://github.com/MPaTXD/Sistema-de-Atentimentos">
-    <img alt="RepositorioSistemadeAtentimentos" height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Sistema-de-Atentimentos&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
+    <img alt="RepositorioSistemadeAtentimentos" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Sistema-de-Atentimentos&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
    <a href="https://github.com/MPaTXD/OFICINA_IDEIAS_CURSO">
-    <img alt="RepositorioOficinaIdeias" height="126em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=OFICINA_IDEIAS_CURSO&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
+    <img alt="RepositorioOficinaIdeias" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=OFICINA_IDEIAS_CURSO&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
 </div>
 
