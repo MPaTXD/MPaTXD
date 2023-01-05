@@ -18,7 +18,7 @@
   <dl>
     <dt>⚔️ Systems Analyst .Net Jr at Welcome the Future;</dt>
     <dt>🎓 Technical in systems development at SENAI CIMATEC;</dt>
-    <dt>💹 Competency in C, C#, ASP.NET MVC, JAVA;</dt>
+    <dt>💹 Competency in C#, ASP.NET MVC, ASP.NET CORE, WEB API;</dt>
     <dt>💻 Currently studying Dotnet and C#;</dt>
     <dt>🥇 Classified for the National stage of the FLL (First Lego League) Robotics championship in 2013.</dt>
   </dl>
@@ -30,7 +30,6 @@
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="25"/>
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25"/>
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25"/>
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25"/>
   <img alt="SQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="25"/>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="25"/>
