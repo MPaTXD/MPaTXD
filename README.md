@@ -74,8 +74,8 @@
    <a href="https://github.com/MPaTXD/Sistema-de-Atentimentos">
     <img alt="RepositorioSistemadeAtentimentos" height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Sistema-de-Atentimentos&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
-   <a href="https://github.com/MPaTXD/OFICINA_IDEIAS_CURSO">
-    <img alt="RepositorioOficinaIdeias" height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=OFICINA_IDEIAS_CURSO&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true">
+   <a href="https://github.com/MPaTXD/Oficina-de-ideias">
+    <img alt="RepositorioOficinaIdeias" height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Oficina-de-ideias&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true">
   </a>
    <a href="https://github.com/MPaTXD/Trabalho-Automato">
     <img alt="RepositorioAutomato" height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Trabalho-Automato&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true">
