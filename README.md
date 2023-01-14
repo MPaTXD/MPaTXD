@@ -41,7 +41,7 @@
 <h2 align="center"><img alt="Status" src="https://emoji.gg/assets/emoji/4023-nitro.gif" width="25" height="25"> Stats</h2>
 <div align="center"> 
    <a href="https://github.com/MPaTXD">
-    <img alt="BagStatus" height="174em" src="https://github-readme-stats.vercel.app/api?username=MPaTXD&count_private=false&show_icons=true&locale=pt-br&theme=tokyonight&hide_border=true" />
+    <img alt="BagStatus" height="174em" src="https://github-readme-stats.vercel.app/api?username=MPaTXD&show_icons=true&locale=pt-br&theme=tokyonight&hide_border=true" />
       <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent")
   </a>
   <a href="https://github.com/MPaTXD">
