@@ -51,7 +51,7 @@
 <h2 align="center"><img alt="Repositorio" src="https://emoji.discord.st/emojis/aea6b19d-1ebb-42b9-98d6-4136ff2ede45.gif" width="25" height="25"/> Repository</h2>
 <div align="center"> 
    <a href="https://github.com/MPaTXD/Campo-Minado-C">
-    <img alt="RepositorioCampo" height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Campo-Minado-C&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
+    <img alt="RepositorioCampo" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Campo-Minado-C&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
   <a href="https://github.com/MPaTXD/UNO-C">
     <img alt="RepositorioUno" height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=UNO-C&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
