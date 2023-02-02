@@ -7,10 +7,10 @@
 </h1> 
 
 <a href="https://www.linkedin.com/in/matheuspatricio/" target="_blank"> 
-   <img alt="BagLinkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+   <img alt="BagLinkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
 </a>
 <a href="https://github.com/MPaTXD" target="_blank"> 
-   <img alt="BagGithub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35">
+   <img alt="BagGithub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25">
 </a>
 
 <img alt="GifPerfil" align="right" width="113" height="183" src="http://1.bp.blogspot.com/-Htv5BlT8nhs/TZIvPoPGH5I/AAAAAAAAABs/NBLV4dt4YN8/s1600/leona-12s%255B1%255D.gif">
@@ -38,13 +38,13 @@
   <img alt="GIT" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25"/>
 </div>
 
-<h2 align="center"><img alt="Status" src="https://emoji.gg/assets/emoji/4023-nitro.gif" width="25" height="25"> Stats</h2>
+<h2 align="center"><img alt="Status" src="https://emoji.gg/assets/emoji/4023-nitro.gif" width="25" height="30"> Stats</h2>
 <div align="center"> 
    <a href="https://github.com/MPaTXD">
-    <img alt="BagStatus" height="174em" src="https://github-readme-stats.vercel.app/api?username=MPaTXD&count_private=false&show_icons=true&locale=pt-br&theme=tokyonight&hide_border=true" />
+    <img alt="BagStatus" height="180em" src="https://github-readme-stats.vercel.app/api?username=MPaTXD&count_private=false&show_icons=true&locale=pt-br&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/MPaTXD">
-    <img alt="BagLinguagens" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPaTXD&count_private=false&layout=compact&show_icons=true&locale=pt-br&theme=tokyonight&hide_border=true&langs_count=8"/>
+    <img alt="BagLinguagens" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPaTXD&count_private=false&layout=compact&show_icons=true&locale=pt-br&theme=tokyonight&hide_border=true&langs_count=8"/>
   </a>
 </div>
 
