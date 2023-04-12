@@ -80,9 +80,7 @@
    <a href="https://github.com/MPaTXD/Trabalho-Automato">
     <img alt="RepositorioAutomato" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Trabalho-Automato&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true">
   </a>
-  <a href="https://github.com/MPaTXD/TemplateTDD">
-    <img alt="RepositorioTemplateTDD" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=TemplateTDD&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true">
-  </a>
+  
 </div>
 
 <h2 align="center"><img alt="Setup" src="https://emoji.discord.st/emojis/f81e2ca1-34e1-4192-ae1f-0c55c470f601.gif" width="25" height="25"> Setup</h2>
