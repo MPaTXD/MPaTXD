@@ -93,7 +93,7 @@
 </div>
 <br>
 <div align="center">
-   <img alt="SetupImagem" src="https://cdn.dribbble.com/users/521912/screenshots/13911181/media/2053a15d64873ea11f9e6cc5cb26f227.gif" width="453" height="320">
+   <img alt="SetupImagem" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Fpc-master-gaming-setup-txfjkbowg1y8ivg7.html&psig=AOvVaw3-BL-SLnjBrzaxJYE-3Ntw&ust=1681414177514000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKCe_ISKpf4CFQAAAAAdAAAAABAh" width="453" height="320">
 </div>
 
 <h2 align="center"><img alt="Hobby" src="https://emoji.discord.st/emojis/5b559c94-0c62-403a-accf-2a406eeb16cb.gif" width="25" height="25"> Hobby</h2>
