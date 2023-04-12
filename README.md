@@ -26,6 +26,7 @@
 
 <div align="center">
   <h2><img src="https://emoji.discord.st/emojis/afadae59-17dd-4217-bf4f-f3ae92f27ab6.gif" width="25" height="25"> Languages and Tools</h2>
+  <img alt="C" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height="25"/>
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="25"/>
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="25"/>
   <img alt="SQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="25"/>
