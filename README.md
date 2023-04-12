@@ -93,7 +93,7 @@
 </div>
 <br>
 <div align="center">
-   <img alt="SetupImagem" src="https://gifdb.com/images/high/pc-master-gaming-setup-txfjkbowg1y8ivg7.webp" width="453" height="320">
+   <img alt="SetupImagem" src="https://gifdb.com/images/high/pc-master-gaming-setup-txfjkbowg1y8ivg7.webp" width="453" height="340">
 </div>
 
 <h2 align="center"><img alt="Hobby" src="https://emoji.discord.st/emojis/5b559c94-0c62-403a-accf-2a406eeb16cb.gif" width="25" height="25"> Hobby</h2>
