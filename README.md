@@ -20,7 +20,6 @@
     <dt>🎓 Technical in systems development at SENAI CIMATEC;</dt>
     <dt>💹 Competency in C#, ASP.NET MVC, ASP.NET CORE, WEB API;</dt>
     <dt>💻 Currently studying Dotnet and C#;</dt>
-    <dt>🥇 Classified for the National stage of the FLL (First Lego League) Robotics championship in 2013.</dt>
   </dl>
 </div>
 
