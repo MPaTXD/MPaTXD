@@ -22,6 +22,7 @@
     <dt>💻 Currently studying Dotnet and C#;</dt>
   </dl>
 </div>
+<br>
 
 <div align="center">
   <h2><img src="https://emoji.discord.st/emojis/afadae59-17dd-4217-bf4f-f3ae92f27ab6.gif" width="25" height="25"> Languages and Tools</h2>
