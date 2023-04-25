@@ -16,7 +16,7 @@
 <img alt="GifPerfil" align="right" width="113" height="183" src="http://1.bp.blogspot.com/-Htv5BlT8nhs/TZIvPoPGH5I/AAAAAAAAABs/NBLV4dt4YN8/s1600/leona-12s%255B1%255D.gif">
 <div>
   <dl>
-    <dt>⚔️ Systems Analyst .Net Jr at Welcome the Future;</dt>
+    <dt>⚔️ Systems Analyst .Net PL at Welcome the Future;</dt>
     <dt>🎓 Technical in systems development at SENAI CIMATEC;</dt>
     <dt>💹 Competency in C#, ASP.NET MVC, ASP.NET CORE, WEB API;</dt>
     <dt>💻 Currently studying Dotnet and C#;</dt>
