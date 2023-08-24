@@ -17,7 +17,8 @@
 <div>
   <dl>
     <dt>⚔️ Systems Analyst .NET PL at Welcome the Future;</dt>
-    <dt>🎓 Technical in systems development at SENAI CIMATEC;</dt>
+    <dt>💻 Technical in systems development at SENAI CIMATEC;</dt>
+    <dt>🎓 Bachelor of Computer Science;</dt>
     <dt>💹 Competency in C#, ASP.NET MVC, ASP.NET CORE, WEB API;</dt>
     <dt>💻 Currently studying Dotnet and C#;</dt>
   </dl>
