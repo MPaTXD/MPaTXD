@@ -72,8 +72,8 @@
    <a href="https://github.com/MPaTXD/Desafio-Kinvo-Aprendizado">
     <img alt="RepositorioDesafioKinvo" height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Desafio-Kinvo-Aprendizado&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
-   <a href="https://github.com/MPaTXD/Sistema-de-Atentimentos">
-    <img alt="RepositorioSistemadeAtentimentos" height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Sistema-de-Atentimentos&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
+   <a href="https://github.com/MPaTXD/Sistema-de-Atendimento">
+    <img alt="RepositorioSistemadeAtendimento" height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Sistema-de-Atendimento&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
    <a href="https://github.com/MPaTXD/Oficina-de-ideias">
     <img alt="RepositorioOficinaIdeias" height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Oficina-de-ideias&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true">
