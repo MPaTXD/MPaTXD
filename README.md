@@ -1,4 +1,4 @@
-<img alt="Banner" src="https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966"/>
+<img alt="Banner" src="https://i.pinimg.com/originals/ec/b6/41/ecb6416c16b66e9e5409def9271224a2.gif"/>
 
 <h1>
    <img alt="Hello" width="30" height="30" src="https://emoji.gg/assets/emoji/4708_Pikachu_Hello.gif"/> 
