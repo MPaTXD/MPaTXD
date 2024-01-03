@@ -89,8 +89,8 @@
 <h2 align="center"><img alt="Setup" src="https://emoji.discord.st/emojis/f81e2ca1-34e1-4192-ae1f-0c55c470f601.gif" width="25" height="25"> Setup</h2>
 <div align="center">
    <img alt="Windows" src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="25"/>
-   <img alt="Amd" src="https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" height="25"/>
-   <img alt="Nvidia" src="https://img.shields.io/badge/NVIDIA-RTX_3060_Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="25"/>
+   <img alt="Amd" src="https://img.shields.io/badge/AMD-Ryzen_7_7800X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white" height="25"/>
+   <img alt="Nvidia" src="https://img.shields.io/badge/NVIDIA-RTX_4070-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="25"/>
 </div>
 <br>
 <div align="center">
