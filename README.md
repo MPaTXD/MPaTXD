@@ -1,4 +1,4 @@
-<img alt="Banner" src="https://cdn.artstation.com/p/video_sources/000/016/909/rog.mp4"/>
+<img alt="Banner" src="https://cdna.artstation.com/p/assets/images/images/024/538/828/original/pixel-jeff-clipc-s.gif?1582740521"/>
 
 <h1>
    <img alt="Hello" width="30" height="30" src="https://emoji.gg/assets/emoji/4708_Pikachu_Hello.gif"/> 
