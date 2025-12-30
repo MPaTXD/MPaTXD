@@ -45,44 +45,44 @@
     <img alt="BagStatus" height="192em" src="https://github-readme-stats-fast.vercel.app/api?username=MPaTXD&count_private=false&show_icons=true&locale=pt-br&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/MPaTXD">
-    <img alt="BagLinguagens" height="215em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPaTXD&count_private=false&layout=compact&show_icons=true&locale=pt-br&theme=tokyonight&hide_border=true&langs_count=8"/>
+    <img alt="BagLinguagens" height="215em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MPaTXD&count_private=false&layout=compact&show_icons=true&locale=pt-br&theme=tokyonight&hide_border=true&langs_count=8"/>
   </a>
 </div>
 
 <h2 align="center"><img alt="Repositorio" src="https://emoji.discord.st/emojis/aea6b19d-1ebb-42b9-98d6-4136ff2ede45.gif" width="25" height="25"/> Repository</h2>
 <div align="center"> 
    <a href="https://github.com/MPaTXD/Campo-Minado-C">
-    <img alt="RepositorioCampo" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Campo-Minado-C&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
+    <img alt="RepositorioCampo" height="120em" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Campo-Minado-C&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
   <a href="https://github.com/MPaTXD/UNO-C">
-    <img alt="RepositorioUno" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=UNO-C&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
+    <img alt="RepositorioUno" height="120em" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=UNO-C&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
    <a href="https://github.com/MPaTXD/Carona-Solidaria-Cimatec">
-    <img alt="RepositorioCarono" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Carona-Solidaria-Cimatec&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
+    <img alt="RepositorioCarono" height="120em" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Carona-Solidaria-Cimatec&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
    <a href="https://github.com/MPaTXD/PROJETO-CURSO-ASP.NET">
-    <img alt="RepositorioBanda" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=PROJETO-CURSO-ASP.NET&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
+    <img alt="RepositorioBanda" height="120em" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=PROJETO-CURSO-ASP.NET&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
    <a href="https://github.com/MPaTXD/Estudo-Go-RestAPI-JWT">
-    <img alt="RepositorioEstudo" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Estudo-Go-RestAPI-JWT&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
+    <img alt="RepositorioEstudo" height="120em" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Estudo-Go-RestAPI-JWT&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
    <a href="https://github.com/MPaTXD/CRUD-ASP.NET-MVC">
-    <img alt="RepositorioBanda" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=CRUD-ASP.NET-MVC&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
+    <img alt="RepositorioBanda" height="120em" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=CRUD-ASP.NET-MVC&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
    <a href="https://github.com/MPaTXD/Desafio-Kinvo-Aprendizado">
-    <img alt="RepositorioDesafioKinvo" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Desafio-Kinvo-Aprendizado&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
+    <img alt="RepositorioDesafioKinvo" height="120em" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Desafio-Kinvo-Aprendizado&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
    <a href="https://github.com/MPaTXD/Sistema-de-Atendimento">
-    <img alt="RepositorioSistemadeAtendimento" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Sistema-de-Atendimento&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
+    <img alt="RepositorioSistemadeAtendimento" height="120em" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Sistema-de-Atendimento&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
   </a>
    <a href="https://github.com/MPaTXD/Oficina-de-ideias">
-    <img alt="RepositorioOficinaIdeias" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Oficina-de-ideias&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true">
+    <img alt="RepositorioOficinaIdeias" height="120em" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Oficina-de-ideias&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true">
   </a>
    <a href="https://github.com/MPaTXD/Trabalho-Automato">
-    <img alt="RepositorioAutomato" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Trabalho-Automato&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true">
+    <img alt="RepositorioAutomato" height="120em" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Trabalho-Automato&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true">
   </a>
   <a href="https://github.com/MPaTXD/Template-TDD">
-    <img alt="RepositorioTemplateTDD" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Template-TDD&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true">
+    <img alt="RepositorioTemplateTDD" height="120em" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Template-TDD&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true">
   </a>
 </div>
 
