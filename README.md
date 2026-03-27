@@ -87,7 +87,7 @@
 <div align="center">
    <img alt="Windows" src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="25"/>
    <img alt="Amd" src="https://img.shields.io/badge/AMD-Ryzen_7_7800X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white" height="25"/>
-   <img alt="Nvidia" src="https://img.shields.io/badge/NVIDIA-RTX_4070-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="25"/>
+   <img alt="Nvidia" src="https://img.shields.io/badge/AMD-RX_9070XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white" height="25"/>
 </div>
 <br>
 <div align="center">
