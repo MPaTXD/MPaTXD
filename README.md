@@ -20,7 +20,7 @@
     <dt>💻 Technical in systems development at SENAI CIMATEC;</dt>
     <dt>🎓 Bachelor of Computer Science;</dt>
     <dt>💹 Competency in C#, ASP.NET MVC, ASP.NET CORE, WEB API;</dt>
-    <dt>📈 Currently studying Dotnet and C#;</dt>
+    <dt>📈 Currently studying C#, .NET, WEB API;</dt>
   </dl>
 </div>
 <br>
