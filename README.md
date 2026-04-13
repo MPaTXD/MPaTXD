@@ -1,4 +1,4 @@
-<img alt="Banner" src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif"/>
+<img alt="Banner" src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2023/07/230663244-b12e77a9-ffbc-40e9-b360-58a3fb3b4c9d-Copy-2-Copy.png"/>
 
 <h1>
    <img alt="Hello" width="30" height="30" src="https://emoji.gg/assets/emoji/4708_Pikachu_Hello.gif"/> 
