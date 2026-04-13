@@ -14,7 +14,7 @@
 </a>
 
 <img alt="GifPerfil" align="right" width="200" height="180" src="https://camo.githubusercontent.com/3cda67c918247d8ca1eed3e4e7566bd2bccb5733e8f83c980b61c4a6276978a4/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f36323263613035323037313736312e353930333465373461626233362e676966">
-<div>
+<div align="center">
   <dl>
     <dt>⚔️ Systems Analyst .NET PL at Welcome the Future;</dt>
     <dt>💻 Technical in systems development at SENAI CIMATEC;</dt>
