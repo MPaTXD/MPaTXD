@@ -1,10 +1,6 @@
 <img alt="Banner" src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2023/07/230663244-b12e77a9-ffbc-40e9-b360-58a3fb3b4c9d-Copy-2-Copy.png"/>
 
-<h1>
-   <img alt="Hello" width="30" height="30" src="https://emoji.gg/assets/emoji/4708_Pikachu_Hello.gif"/> 
-   Hello, It’s me Matheus Patricio
-   <img alt="Hello" width="30" height="30" src="https://emoji.gg/assets/emoji/4708_Pikachu_Hello.gif"/>
-</h1> 
+<h1>Hello, It’s me Matheus Patricio</h1> 
 
 <a href="https://www.linkedin.com/in/matheuspatricio/" target="_blank"> 
    <img alt="BagLinkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
@@ -26,7 +22,7 @@
 <br>
 
 <div align="center">
-  <h2><img src="https://emoji.discord.st/emojis/afadae59-17dd-4217-bf4f-f3ae92f27ab6.gif" width="25" height="25"> Languages and Tools</h2>
+  <h2>Languages and Tools</h2>
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="25"/>
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="25"/>
   <img alt="KAFKA" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" height="25"/>
@@ -39,7 +35,7 @@
   <img alt="POSTMAN" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="25"/>
 </div>
 
-<h2 align="center"><img alt="Status" src="https://emoji.gg/assets/emoji/4023-nitro.gif" width="25" height="30"> Stats</h2>
+<h2 align="center">Stats</h2>
 <div align="center"> 
    <a href="https://github.com/MPaTXD">
     <img alt="BagStatus" height="214em" src="https://github-readme-stats-fast.vercel.app/api?username=MPaTXD&count_private=false&show_icons=true&locale=en&theme=tokyonight&hide_border=true" />
@@ -49,7 +45,7 @@
   </a>
 </div>
 
-<h2 align="center"><img alt="Repositorio" src="https://emoji.discord.st/emojis/aea6b19d-1ebb-42b9-98d6-4136ff2ede45.gif" width="25" height="25"/> Repository</h2>
+<h2 align="center">Repository</h2>
 <div align="center"> 
    <a href="https://github.com/MPaTXD/Campo-Minado-C">
     <img alt="RepositorioCampo" height="120em" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MPaTXD&show_owner=true&repo=Campo-Minado-C&count_private=false&title_color=6495ED&icon_color=9370DB&text_color=20B2AA&bg_color=1a1b27&hide_border=true"/>
@@ -83,7 +79,7 @@
   </a>
 </div>
 
-<h2 align="center"><img alt="Setup" src="https://emoji.discord.st/emojis/f81e2ca1-34e1-4192-ae1f-0c55c470f601.gif" width="25" height="25"> Setup</h2>
+<h2 align="center">Setup</h2>
 <div align="center">
    <img alt="Windows" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" height="25"/>
    <img alt="AMD CPU" src="https://img.shields.io/badge/CPU-7800X3D-%23ED1C24.svg?style=for-the-badge&logo=amd&logoColor=white" height="25"/>
@@ -94,7 +90,7 @@
    <img alt="SetupImagem" src="https://steamuserimages-a.akamaihd.net/ugc/353899007316786697/0D43E10D50F4D45471E7B95EA7FBF435A0876614/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="571" height="185">
 </div>
 
-<h2 align="center"><img alt="Hobby" src="https://emoji.discord.st/emojis/5b559c94-0c62-403a-accf-2a406eeb16cb.gif" width="25" height="25"> Hobby</h2>
+<h2 align="center">Hobby</h2>
 <div align="center">
   <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" height="25"/>
   <img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25"/>
