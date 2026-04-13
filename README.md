@@ -13,7 +13,7 @@
    <img alt="BagGithub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25">
 </a>
 
-<img alt="GifPerfil" align="right" width="113" height="183" src="http://1.bp.blogspot.com/-Htv5BlT8nhs/TZIvPoPGH5I/AAAAAAAAABs/NBLV4dt4YN8/s1600/leona-12s%255B1%255D.gif">
+<img alt="GifPerfil" align="right" width="113" height="183" src="https://i.redd.it/vzkhe4s8dlab1.gif">
 <div>
   <dl>
     <dt>⚔️ Systems Analyst .NET PL at Welcome the Future;</dt>
