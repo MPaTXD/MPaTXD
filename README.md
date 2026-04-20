@@ -9,7 +9,10 @@
    <img alt="BagGithub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25">
 </a>
 
-<img alt="c#" align="right" width="200" height="180" src="https://i.pinimg.com/originals/5f/8b/d3/5f8bd3ea65d785d8cafbc58d864453d4.gif">
+<div align="right">
+   <img alt="c#" align="right" width="200" height="180" src="https://i.pinimg.com/originals/5f/8b/d3/5f8bd3ea65d785d8cafbc58d864453d4.gif?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+</div>
+
 <div align="left">
   <dl>
     <dt>⚔️ Systems Analyst .NET PL at Welcome the Future;</dt>
@@ -19,6 +22,7 @@
     <dt>📈 Currently studying C#, .NET, WEB API;</dt>
   </dl>
 </div>
+
 <br>
 
 <div align="center">
